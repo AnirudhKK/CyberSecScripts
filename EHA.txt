@@ -1,0 +1,18 @@
+Xio Steganography - Hiding data in image
+Foto Forensics - Photo forensics
+Social Phish - Phishing page
+Viel Evasion
+Fsociety - COMBO
+Cupp - Wordlist
+Fawkes - SQL Injection
+PEASS - Privilage Escalation
+LockPhish - Lock Screen
+Zphisher - Web Phishing
+PentBox - Honeypot
+Katana Framework - Find admin panel
+HOIC - DDoS
+Bettercap - MITM
+PenTest Monkey - Backdoor Scripts
+Net Discover - Checking All hosts connected
+Kerbrute - Valid active directory users
+LaZagne - Extract passwords from computer
